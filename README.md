@@ -138,4 +138,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *CodeCraft AI - Where imagination meets implementation*
 
 
-**Kindly noe that the above content generated using AI.**
+**Kindly note that the above content generated using AI.**
